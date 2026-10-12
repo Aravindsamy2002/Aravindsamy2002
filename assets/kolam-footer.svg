@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170">
+<style>
+.dot{fill:#f4efe2;opacity:0;animation:pop .35s ease-out forwards}
+.line{fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1 1;stroke-dashoffset:1;animation:draw 1.6s ease-in-out forwards}
+.t{opacity:0;animation:fade .9s ease-out forwards}
+@keyframes pop{to{opacity:.9}}
+@keyframes draw{to{stroke-dashoffset:0}}
+@keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){.dot,.line,.t{animation:none;opacity:1;stroke-dashoffset:0}}
+</style>
+<rect width="1200" height="170" rx="14" fill="#0a0d12"/>
+<g transform="translate(600 68)">
+<circle class="dot" style="animation-delay:0.10s" cx="-32.0" cy="-32.0" r="2.4"/>
+<circle class="dot" style="animation-delay:0.12s" cx="-32.0" cy="0.0" r="2.4"/>
+<circle class="dot" style="animation-delay:0.15s" cx="-32.0" cy="32.0" r="2.4"/>
+<circle class="dot" style="animation-delay:0.18s" cx="0.0" cy="-32.0" r="2.4"/>
+<circle class="dot" style="animation-delay:0.20s" cx="0.0" cy="0.0" r="2.4"/>
+<circle class="dot" style="animation-delay:0.23s" cx="0.0" cy="32.0" r="2.4"/>
+<circle class="dot" style="animation-delay:0.25s" cx="32.0" cy="-32.0" r="2.4"/>
+<circle class="dot" style="animation-delay:0.28s" cx="32.0" cy="0.0" r="2.4"/>
+<circle class="dot" style="animation-delay:0.30s" cx="32.0" cy="32.0" r="2.4"/>
+<path class="line" pathLength="1" style="animation-delay:0.53s" d="M-40.0 -24.0Q-32.0 -16.0 -24.0 -8.0Q-16.0 0.0 -8.0 8.0Q0.0 16.0 8.0 24.0Q16.0 32.0 24.0 40.0Q32.0 48.0 40.0 40.0Q48.0 32.0 40.0 24.0Q32.0 16.0 24.0 8.0Q16.0 0.0 8.0 -8.0Q0.0 -16.0 -8.0 -24.0Q-16.0 -32.0 -24.0 -40.0Q-32.0 -48.0 -40.0 -40.0Q-48.0 -32.0 -40.0 -24.0Z" stroke="#f4efe2" stroke-width="2.4"/>
+<path class="line" pathLength="1" style="animation-delay:0.93s" d="M-40.0 -8.0Q-32.0 -16.0 -24.0 -24.0Q-16.0 -32.0 -8.0 -40.0Q0.0 -48.0 8.0 -40.0Q16.0 -32.0 24.0 -24.0Q32.0 -16.0 40.0 -8.0Q48.0 0.0 40.0 8.0Q32.0 16.0 24.0 24.0Q16.0 32.0 8.0 40.0Q0.0 48.0 -8.0 40.0Q-16.0 32.0 -24.0 24.0Q-32.0 16.0 -40.0 8.0Q-48.0 0.0 -40.0 -8.0Z" stroke="#F8D907" stroke-width="2.4"/>
+<path class="line" pathLength="1" style="animation-delay:1.33s" d="M-40.0 24.0Q-32.0 16.0 -24.0 8.0Q-16.0 0.0 -8.0 -8.0Q0.0 -16.0 8.0 -24.0Q16.0 -32.0 24.0 -40.0Q32.0 -48.0 40.0 -40.0Q48.0 -32.0 40.0 -24.0Q32.0 -16.0 24.0 -8.0Q16.0 0.0 8.0 8.0Q0.0 16.0 -8.0 24.0Q-16.0 32.0 -24.0 40.0Q-32.0 48.0 -40.0 40.0Q-48.0 32.0 -40.0 24.0Z" stroke="#f4efe2" stroke-width="2.4"/>
+</g>
+<g class="t" style="animation-delay:2.2s"><text x="600" y="150" text-anchor="middle" fill="#8b93a1" font-family="'Nirmala UI','Tamil Sangam MN','Noto Sans Tamil','Latha',sans-serif" font-size="17">மீண்டும் வருக <tspan font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-style="italic">· come again</tspan></text></g>
+</svg>

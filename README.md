@@ -1,53 +1,32 @@
-<div align="center">
+<img src="./assets/kolam-header.svg" width="100%" alt="வாசல் (vaasal), the doorstep. Aravindsamy. In Tamil homes, a kolam is drawn at the vaasal every morning to welcome whoever comes by. This one is drawn by code. Welcome in." />
 
-<img src="./assets/banner.svg" width="100%" alt="வணக்கம், I'm Aravindsamy: Founder, Developer, Educator" />
+I make three kinds of things: **websites** that local businesses actually get customers from, **games and 3D spaces** you can walk through, and **coding lessons in Tamil** for people who were told programming is only for English speakers.
 
-</div>
+Most of it lives in private repos, because it's client work or tools I use every day. Ask me and I'll walk you through any of it.
 
-<img src="./assets/character.svg" width="100%" alt="Character card: Builder and Teacher, level 24. Stats: web development, game dev and 3D, teaching in Tamil, automation and tools." />
+#### What's on my desk right now
 
-## 🗺️ Current quests
+- Redesigning an academy website so every page looks like a real object on a desk, not a template.
+- Recording an HTML course in Tanglish: 10 modules, 44 lessons, one café website built from scratch.
+- A small CRM and an SEO research tool for my own studio work.
+- Unity experiments and real-time architectural walkthroughs on the side.
 
-| | Quest | Status |
-|:-:|---|:-:|
-| 🌐 | Building fast, animated websites for local businesses | `IN PROGRESS` |
-| 🧰 | A CRM and SEO research tools for my studio | `IN PROGRESS` |
-| 🎓 | HTML5 course in Tamil: 10 modules, 44 lessons | `IN PROGRESS` |
-| 🎮 | Unity games and real-time architectural walkthroughs | `LEVELLING UP` |
-| 📈 | Trading journal and strategy tools | `SIDE QUEST` |
+#### What I reach for
 
-## 🎒 Inventory
+Next.js · React · TypeScript · Astro for the web.<br>
+PHP and Python when something has to run on a server or crunch data.<br>
+C# and Unity for games, Three.js and Blender for 3D.
 
-<p>
-<img src="https://img.shields.io/badge/Next.js-010409?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React-010409?style=flat-square&logo=react&logoColor=F8D907" />
-<img src="https://img.shields.io/badge/TypeScript-010409?style=flat-square&logo=typescript&logoColor=F8D907" />
-<img src="https://img.shields.io/badge/JavaScript-010409?style=flat-square&logo=javascript&logoColor=F8D907" />
-<img src="https://img.shields.io/badge/Astro-010409?style=flat-square&logo=astro&logoColor=F8D907" />
-<img src="https://img.shields.io/badge/Tailwind-010409?style=flat-square&logo=tailwindcss&logoColor=F8D907" />
-<img src="https://img.shields.io/badge/PHP-010409?style=flat-square&logo=php&logoColor=F8D907" />
-<img src="https://img.shields.io/badge/Python-010409?style=flat-square&logo=python&logoColor=F8D907" />
-<img src="https://img.shields.io/badge/C%23-010409?style=flat-square&logo=dotnet&logoColor=F8D907" />
-<img src="https://img.shields.io/badge/Unity-010409?style=flat-square&logo=unity&logoColor=F8D907" />
-<img src="https://img.shields.io/badge/Three.js-010409?style=flat-square&logo=threedotjs&logoColor=F8D907" />
-<img src="https://img.shields.io/badge/Blender-010409?style=flat-square&logo=blender&logoColor=F8D907" />
-</p>
+<details>
+<summary><b>Why is there a kolam up there?</b></summary>
+<br>
 
-## 🔥 Daily grind
+A kolam is a line drawing made with rice flour around a grid of dots. It is drawn at the doorstep every morning, and the best ones are made from a few lines that loop around every dot without a break.
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Aravindsamy2002&theme=dark&background=010409&ring=F8D907&fire=F8D907&currStreakLabel=F8D907&hide_border=true" alt="GitHub streak" />
-</div>
+The one above is generated, not drawn by hand. A line starts between two dots, travels diagonally, and bounces off the edges and off a few "mirrors" placed in the grid, until it comes back to where it began. That's the same rule behind sikku kolams. The white lines are rice flour; the yellow one is turmeric.
 
-<!-- Contact links: add email, LinkedIn and website here
-## 🤝 Join my party
+</details>
 
-<p>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-F8D907?style=for-the-badge&logo=gmail&logoColor=010409" /></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-010409?style=for-the-badge&logo=linkedin&logoColor=F8D907" /></a>
-<a href="https://YOUR_WEBSITE"><img src="https://img.shields.io/badge/Website-010409?style=for-the-badge&logo=googlechrome&logoColor=F8D907" /></a>
-</p>
+<br>
 
--->
-
-<sub>🕹️ Thanks for visiting. Save point reached.</sub>
+<img src="./assets/kolam-footer.svg" width="100%" alt="மீண்டும் வருக, come again" />

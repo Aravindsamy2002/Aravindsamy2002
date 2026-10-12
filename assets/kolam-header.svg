@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430">
+<style>
+.dot{fill:#f4efe2;opacity:0;animation:pop .35s ease-out forwards}
+.line{fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1 1;stroke-dashoffset:1;animation:draw 1.6s ease-in-out forwards}
+.t{opacity:0;animation:fade .9s ease-out forwards}
+@keyframes pop{to{opacity:.9}}
+@keyframes draw{to{stroke-dashoffset:0}}
+@keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){.dot,.line,.t{animation:none;opacity:1;stroke-dashoffset:0}}
+</style>
+<rect width="1200" height="430" rx="14" fill="#0a0d12"/>
+<rect width="1200" height="430" rx="14" fill="url(#grain)" opacity=".5"/>
+<defs><pattern id="grain" width="6" height="6" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".6" fill="#ffffff" opacity=".035"/><circle cx="4" cy="4" r=".5" fill="#ffffff" opacity=".025"/></pattern></defs>
+<g class="t" style="animation-delay:.2s"><text x="72" y="96" fill="#F8D907" font-family="'Nirmala UI','Tamil Sangam MN','Noto Sans Tamil','Latha',sans-serif" font-size="22" font-weight="600">வாசல்</text>
+<text x="170" y="96" fill="#8b93a1" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" font-style="italic">vaasal · n. the doorstep</text></g>
+<g class="t" style="animation-delay:.5s"><text x="68" y="180" fill="#ffffff" font-family="Georgia,'Times New Roman',serif" font-size="72" letter-spacing="-1">Aravindsamy</text></g>
+<g class="t" style="animation-delay:.9s" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="19" fill="#b9c0cb">
+<text x="72" y="236">In Tamil homes, a kolam is drawn at the vaasal</text>
+<text x="72" y="264">every morning to welcome whoever comes by.</text>
+<text x="72" y="306" fill="#ffffff">This one is drawn by code. <tspan fill="#F8D907">Welcome in.</tspan></text></g>
+<g class="t" style="animation-delay:1.3s"><line x1="72" y1="350" x2="112" y2="350" stroke="#F8D907" stroke-width="2"/>
+<text x="124" y="355" fill="#8b93a1" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" letter-spacing="3">BUILDER · GAME MAKER · TEACHER</text></g>
+<g transform="translate(930 215)">
+<circle class="dot" style="animation-delay:0.10s" cx="-124.0" cy="-124.0" r="3.2"/>
+<circle class="dot" style="animation-delay:0.12s" cx="-124.0" cy="-62.0" r="3.2"/>
+<circle class="dot" style="animation-delay:0.15s" cx="-124.0" cy="0.0" r="3.2"/>
+<circle class="dot" style="animation-delay:0.18s" cx="-124.0" cy="62.0" r="3.2"/>
+<circle class="dot" style="animation-delay:0.20s" cx="-124.0" cy="124.0" r="3.2"/>
+<circle class="dot" style="animation-delay:0.23s" cx="-62.0" cy="-124.0" r="3.2"/>
+<circle class="dot" style="animation-delay:0.25s" cx="-62.0" cy="-62.0" r="3.2"/>
+<circle class="dot" style="animation-delay:0.28s" cx="-62.0" cy="0.0" r="3.2"/>
+<circle class="dot" style="animation-delay:0.30s" cx="-62.0" cy="62.0" r="3.2"/>
+<circle class="dot" style="animation-delay:0.33s" cx="-62.0" cy="124.0" r="3.2"/>
+<circle class="dot" style="animation-delay:0.35s" cx="0.0" cy="-124.0" r="3.2"/>
+<circle class="dot" style="animation-delay:0.38s" cx="0.0" cy="-62.0" r="3.2"/>
+<circle class="dot" style="animation-delay:0.40s" cx="0.0" cy="0.0" r="3.2"/>
+<circle class="dot" style="animation-delay:0.43s" cx="0.0" cy="62.0" r="3.2"/>
+<circle class="dot" style="animation-delay:0.45s" cx="0.0" cy="124.0" r="3.2"/>
+<circle class="dot" style="animation-delay:0.47s" cx="62.0" cy="-124.0" r="3.2"/>
+<circle class="dot" style="animation-delay:0.50s" cx="62.0" cy="-62.0" r="3.2"/>
+<circle class="dot" style="animation-delay:0.53s" cx="62.0" cy="0.0" r="3.2"/>
+<circle class="dot" style="animation-delay:0.55s" cx="62.0" cy="62.0" r="3.2"/>
+<circle class="dot" style="animation-delay:0.58s" cx="62.0" cy="124.0" r="3.2"/>
+<circle class="dot" style="animation-delay:0.60s" cx="124.0" cy="-124.0" r="3.2"/>
+<circle class="dot" style="animation-delay:0.62s" cx="124.0" cy="-62.0" r="3.2"/>
+<circle class="dot" style="animation-delay:0.65s" cx="124.0" cy="0.0" r="3.2"/>
+<circle class="dot" style="animation-delay:0.68s" cx="124.0" cy="62.0" r="3.2"/>
+<circle class="dot" style="animation-delay:0.70s" cx="124.0" cy="124.0" r="3.2"/>
+<path class="line" pathLength="1" style="animation-delay:0.93s" d="M-139.5 -108.5Q-124.0 -93.0 -108.5 -77.5Q-93.0 -62.0 -77.5 -46.5Q-62.0 -31.0 -46.5 -15.5Q-31.0 0.0 -46.5 15.5Q-62.0 31.0 -77.5 46.5Q-93.0 62.0 -108.5 77.5Q-124.0 93.0 -139.5 108.5Q-155.0 124.0 -139.5 139.5Q-124.0 155.0 -108.5 139.5Q-93.0 124.0 -77.5 108.5Q-62.0 93.0 -46.5 77.5Q-31.0 62.0 -15.5 46.5Q0.0 31.0 15.5 46.5Q31.0 62.0 46.5 77.5Q62.0 93.0 77.5 108.5Q93.0 124.0 108.5 139.5Q124.0 155.0 139.5 139.5Q155.0 124.0 139.5 108.5Q124.0 93.0 108.5 77.5Q93.0 62.0 77.5 46.5Q62.0 31.0 46.5 15.5Q31.0 0.0 46.5 -15.5Q62.0 -31.0 77.5 -46.5Q93.0 -62.0 108.5 -77.5Q124.0 -93.0 139.5 -108.5Q155.0 -124.0 139.5 -139.5Q124.0 -155.0 108.5 -139.5Q93.0 -124.0 77.5 -108.5Q62.0 -93.0 46.5 -77.5Q31.0 -62.0 15.5 -46.5Q0.0 -31.0 -15.5 -46.5Q-31.0 -62.0 -46.5 -77.5Q-62.0 -93.0 -77.5 -108.5Q-93.0 -124.0 -108.5 -139.5Q-124.0 -155.0 -139.5 -139.5Q-155.0 -124.0 -139.5 -108.5Z" stroke="#F8D907" stroke-width="3.2"/>
+<path class="line" pathLength="1" style="animation-delay:1.48s" d="M-139.5 -77.5Q-124.0 -93.0 -108.5 -108.5Q-93.0 -124.0 -77.5 -139.5Q-62.0 -155.0 -46.5 -139.5Q-31.0 -124.0 -15.5 -108.5Q0.0 -93.0 15.5 -108.5Q31.0 -124.0 46.5 -139.5Q62.0 -155.0 77.5 -139.5Q93.0 -124.0 108.5 -108.5Q124.0 -93.0 139.5 -77.5Q155.0 -62.0 139.5 -46.5Q124.0 -31.0 108.5 -15.5Q93.0 0.0 108.5 15.5Q124.0 31.0 139.5 46.5Q155.0 62.0 139.5 77.5Q124.0 93.0 108.5 108.5Q93.0 124.0 77.5 139.5Q62.0 155.0 46.5 139.5Q31.0 124.0 15.5 108.5Q0.0 93.0 -15.5 108.5Q-31.0 124.0 -46.5 139.5Q-62.0 155.0 -77.5 139.5Q-93.0 124.0 -108.5 108.5Q-124.0 93.0 -139.5 77.5Q-155.0 62.0 -139.5 46.5Q-124.0 31.0 -108.5 15.5Q-93.0 0.0 -108.5 -15.5Q-124.0 -31.0 -139.5 -46.5Q-155.0 -62.0 -139.5 -77.5Z" stroke="#f4efe2" stroke-width="3.2"/>
+<path class="line" pathLength="1" style="animation-delay:2.03s" d="M-139.5 -15.5Q-124.0 -31.0 -108.5 -46.5Q-93.0 -62.0 -77.5 -77.5Q-62.0 -93.0 -46.5 -108.5Q-31.0 -124.0 -15.5 -139.5Q0.0 -155.0 15.5 -139.5Q31.0 -124.0 46.5 -108.5Q62.0 -93.0 77.5 -77.5Q93.0 -62.0 108.5 -46.5Q124.0 -31.0 139.5 -15.5Q155.0 0.0 139.5 15.5Q124.0 31.0 108.5 46.5Q93.0 62.0 77.5 77.5Q62.0 93.0 46.5 108.5Q31.0 124.0 15.5 139.5Q0.0 155.0 -15.5 139.5Q-31.0 124.0 -46.5 108.5Q-62.0 93.0 -77.5 77.5Q-93.0 62.0 -108.5 46.5Q-124.0 31.0 -139.5 15.5Q-155.0 0.0 -139.5 -15.5Z" stroke="#f4efe2" stroke-width="3.2"/>
+<path class="line" pathLength="1" style="animation-delay:2.58s" d="M-77.5 -15.5Q-62.0 -31.0 -46.5 -46.5Q-31.0 -62.0 -15.5 -77.5Q0.0 -93.0 15.5 -77.5Q31.0 -62.0 46.5 -46.5Q62.0 -31.0 77.5 -15.5Q93.0 0.0 77.5 15.5Q62.0 31.0 46.5 46.5Q31.0 62.0 15.5 77.5Q0.0 93.0 -15.5 77.5Q-31.0 62.0 -46.5 46.5Q-62.0 31.0 -77.5 15.5Q-93.0 0.0 -77.5 -15.5Z" stroke="#f4efe2" stroke-width="3.2"/>
+</g>
+</svg>
